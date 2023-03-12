@@ -1,4 +1,4 @@
-# Hakk-mda
+# Hakkimda
 Benim Hakkımda
 Merhabalar ben Emirhan TOKALAK, 21 yaşında bir bilgisayar programcılığı bölümü öğrencisiyim.(İstanbul Üniversitesi)
 
